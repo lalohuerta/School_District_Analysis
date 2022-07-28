@@ -21,11 +21,11 @@ After conducting an in-depth analysis of a school district, the council-board ha
 
 fig. 1: District Summary before removing 
 
-<img src="Resources/Total_CA.png" width="500">
+<img src="Resources/Total_CA.png" width="700">
 
 fig. 2: District Sumary after removing
 
-<img src="Resources/Total_Challenge.png" width="500">
+<img src="Resources/Total_Challenge.png" width="700">
 
 
 * How is the school summary affected?
@@ -38,11 +38,11 @@ fig. 2: District Sumary after removing
 
 fig. 3: Top 5 schools before removing 
 
-<img src="Resources/Top_CA.png" width="500">    
+<img src="Resources/Top_CA.png" width="700">    
 
 fig. 4: Top 5 schools after removing 
 
-<img src="Resources/Top_Challenge.png" width="500">
+<img src="Resources/Top_Challenge.png" width="700">
 
 
 * How does replacing the ninth-grade scores affect the following:
@@ -51,18 +51,21 @@ fig. 4: Top 5 schools after removing
     - Scores by school size : Due to the size of school the averages math and reading stayed the same.
     - Scores by school type : We can see a dicrease of 0.04% in the Overall passing before and after removing the 9th graders.
 
-fig. 5: Top 5 schools before removing 
+fig. 5: School by type before removing 
 
-<img src="Resources/School_type_CA.png" width="500">  
+<img src="Resources/School_type_CA.png" width="700">  
 
-fig. 6: Top 5 schools after removing 
+fig. 6: School by type after removing 
 
-<img src="Resources/School_type_Challenge.png" width="500">  
-
-
+<img src="Resources/School_type_Challenge.png" width="700">  
 
 
 ## Summary 
+
+1.  The Average Math Score went below for 0.1%. 
+2.  Percentage students passing math, reading and the overall were reduced no more than 0.3%.
+3.  Due to the size of bins the averages math and reading stayed the same by spending rates.
+4.  A 0.04% drop in the Overall passing percentage.
 
 
 
