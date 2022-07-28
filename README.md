@@ -16,13 +16,13 @@ After conducting an in-depth analysis of a school district, the council-board ha
 
 ## Results 
 * How is the district summary affected?
-
+When removing the THS 9th grade math and reading scores from the dataset the total chools and students numers are not affected so the overall averages by district will be reported with the original school and students numbers. As you can see the Average Math Score went below for 0.1% meanwhile the Reading score remains the same. Percentage students passing math, reading and the overall were reduced no more than 0.3% due to there are 461 9th grade students at Thomas High School.
 
 fig. 1: 
-<img src="Resources/Total_CA.png" width="500">
+img src="Resources/Total_CA.png" width="500"
 
-fig. 2: 
-<img src="Resources/Total_Challenge.png" width="500">
+fig. 2:
+img src="Resources/Total_Challenge.png" width="500"
 
 
 * How is the school summary affected?
